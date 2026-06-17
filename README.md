@@ -249,14 +249,15 @@ retail-customer-clustering/
 
 ---
 
-## 👤 Author
+## Author
 
-**[Your Name]**
+**Reemika Subrata Das**
 
-- 📧 Email: [your.email@example.com]
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🐙 GitHub: [github.com/yourusername](https://github.com/yourusername)
+- GitHub: [@reemikadas](https://github.com/reemikadas)
+- LinkedIn: [linkedin.com/in/reemikadas](https://www.linkedin.com/in/reemikadas)
+- Email: das.reemika@gmail.com
 
 ---
+
 
 *If you found this project useful, please consider giving it a ⭐ on GitHub!*
